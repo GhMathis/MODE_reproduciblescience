@@ -1,6 +1,7 @@
 ---
-title: "Introduction to bayesian modeles for ecology" author : Coline - Jules -
-Mathis - Romane - Laura bibliography: references.bib execute: freeze: auto
+title: "Introduction to bayesian modeles for ecology" 
+author : Coline Lehnhoff - Jules Delahaie - Mathis Gheno - Romane Dubois - Laura Borner 
+bibliography: references.bib execute: freeze: auto
 output: html_document: toc: true toc_float: true
 ---
 
@@ -638,5 +639,3 @@ For example, predators are often gape-limited, meaning that larger predators sho
 
 ## Spider abundance according to the presence of fish:
 In this example from a study done by Warmbold and Wesner in 2018, they hypothesized that fish would reduce the emergence of adult aquatic insects by eating their larvae, causing a reduction in terrestrial spiders that feed on the adult forms of those insects. 
-
-
